@@ -1,0 +1,5 @@
+rootProject.name = 'connected'
+include 'account-core'
+include 'account-service'
+include 'connected-api'
+
