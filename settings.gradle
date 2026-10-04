@@ -1,0 +1,5 @@
+rootProject.name = 'connected'
+include 'connected-core'
+include 'connected-service'
+include 'connected-api'
+
